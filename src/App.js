@@ -1,13 +1,14 @@
 import React from 'react';
 import './App.css';
-
+// import Photo from './Components/SchoolPhoto.js'
+// import Info from './Components/SchoolInfo.js'
 function App() {
   return (
     <div>
       <div className="container">
         <h1 className="section-title">Glenbrook North High School</h1>
       </div>
-      
+      {/* <SchoolPhoto/> */}
       <div className="container">
         <h2 className="section-title">Seniors</h2>
         <ul className="cards">
